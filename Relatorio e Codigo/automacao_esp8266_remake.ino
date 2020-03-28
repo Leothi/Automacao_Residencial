@@ -459,7 +459,7 @@ BLYNK_WRITE(V101)
 {
   if (param.asInt() == 1)
   {
-    if (relayState1 == 1)
+    if (relayState1 == 0)
     {
       relayState1 = !relayState1;
     }
@@ -484,7 +484,7 @@ BLYNK_WRITE(V102)
 {
   if (param.asInt() == 1)
   {
-    if (relayState1 == 1)
+    if (relayState1 == 0)
     {
       relayState1 = !relayState1;
     }
@@ -508,7 +508,7 @@ BLYNK_WRITE(V105)
 {
   if (param.asInt() == 1)
   {
-    if (relayState1 == 1)
+    if (relayState1 == 0)
     {
       relayState1 = !relayState1;
     }
