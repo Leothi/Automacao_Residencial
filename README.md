@@ -19,10 +19,14 @@ Bibliotecas:
 
 ### Instalação
 
-Montar o circuito de acordo com o esquemático contido no relatório;
-Instalar os drivers e bibliotecas necessárias;
-Subir o código utilizando IDE Arduino;
-Utilizar o aplicativo Blynk para controle.
+**Atualização versão 2.0:**
+
+Para versão remake, o circuito é diferente do relatório. Ler o código para verificar mudanças nos pinos.
+
+* Montar o circuito de acordo com o esquemático contido no relatório;
+* Instalar os drivers e bibliotecas necessárias;
+* Subir o código utilizando IDE Arduino;
+* Utilizar o aplicativo Blynk para controle.
 
 
 ## Construído com
