@@ -40,12 +40,11 @@ WidgetLED led3(V22);
 IRsend irsend(IR_LED);
 
 // Blynk board auth code
-//char auth[] = "vARhox6JkUdxRNCS5kU2X8ZFgUpz2VCm";
-char auth[] = "312835a81d59443aa7688c1b54caef57";
+char auth[] = "authcode";
 
 // Wifi and Blynk credentials
 char ssid[] = "Leo";
-char pass[] = "leothi12345";
+char pass[] = "senha";
 char server[] = "blynk-cloud.com";
 
 // Pre defined states
